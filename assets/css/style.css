@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.background-fundal {
+    background-color: rgba(177, 141, 96, 0.77);
+    
+
+
+}
+
+.background-fundal h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 35px;
+    font-weight: 400;
+    font-style: italic;
+    width: 300px;
+
+}
+
+.background-fundal input {
+    background-color: rgb(219, 219, 173);
+}
+ 
+.background-fundal {
+    margin-bottom: 18px;
+}
+
+.background-fundal img {
+    position: relative;
+    left: 1420px;
+}
+
+.background-fundal .top-5 {
+    position: relative;
+    bottom: 80px;
+}
