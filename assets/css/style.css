@@ -9,7 +9,7 @@
 }
 
 .background-fundal h1 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Playfair Display', serif;
     font-size: 35px;
     font-weight: 400;
     font-style: italic;
@@ -23,13 +23,14 @@ input {
 
 .image {
     position: sticky;
-    left: 1420px;
+    margin-left: 1425px;
 
 }
 
 .linkuri ul li {
     display: inline-block;
     margin-left: 180px;
+
 }
 
 .linkuri {
@@ -40,7 +41,7 @@ input {
     font-size: 17px;
     position: sticky;
     top: 4px;
-
+    
 }
 
 .linkuri ul li a {
@@ -58,4 +59,7 @@ a:hover {
 
 a:active {
     background-color: rgb(232, 236, 4)
+}
+.main-1{
+    background-color: beige;
 }
